@@ -1,3 +1,4 @@
+os: macos
 script:
 - chmod +x mac.sh
 - ./mac.sh
